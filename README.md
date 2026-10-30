@@ -16,6 +16,7 @@ Each release goes with a GoodEye episode. What you see in the video is what you 
 |---|---|---|
 | [0.9](https://github.com/RetroEye/RetroEye/releases/tag/v0.9) | **E01:** [I Wanted an OS. I Fixed a Taskbar.](https://www.youtube.com/watch?v=Dwxp_VAhULk) | The taskbar, Start menus and system tray for every era, Solitaire, GoodEye Explorer and Navigator, and winipcfg |
 | [0.10](https://github.com/RetroEye/RetroEye/releases/tag/v0.10) | **E02:** Naming RetroEye *(coming soon)* | GoodEye Messenger, GoodEye Player, the XP folder windows, Notepad, Paint, Calculator and the Command Prompt |
+| [0.12](https://github.com/RetroEye/RetroEye/releases/tag/v0.12) | **E04:** [RetroEye vs Real XP](https://www.youtube.com/watch?v=WPOqBQSFxDI) | Control Panel, Task Manager and Pinball |
 
 **More features to come.** Each new episode unlocks more of RetroEye, so watch the channel and check back here.
 
@@ -29,6 +30,7 @@ Each release goes with a GoodEye episode. What you see in the video is what you 
 - **GoodEye Explorer and GoodEye Navigator**, browsers in the style of the late-90s ones.
 - **winipcfg**. We know it doesn't belong in a Windows XP look. It's in there because we like it.
 - **New in 0.10:** GoodEye Messenger, GoodEye Player, the XP folder windows, and Notepad, Paint, Calculator and the Command Prompt in each era's style.
+- **New in 0.12:** Control Panel in XP's Category View, Task Manager with all five tabs, and Pinball.
 
 ## Install
 
