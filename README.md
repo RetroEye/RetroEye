@@ -6,6 +6,8 @@
 
 <p align="center"><a href="media/retroeye-1.0-preview-showcase.mp4"><img src="media/retroeye-1.0-preview-teaser.gif" width="860" alt="RetroEye switching between its Windows 95, 98, Me, 2000, XP, Vista and 7 looks"></a><br><sub>▶ Click for the one-minute showcase video</sub></p>
 
+<p align="center"><a href="https://ko-fi.com/goodeyebrad"><img src="images/goodeye-badge.png" width="72" alt="GoodEye"></a><br><a href="https://ko-fi.com/goodeyebrad"><img alt="Buy me a bag of beans" src="https://img.shields.io/badge/%E2%98%95%20buy%20me%20a%20bag%20of%20beans-Ko--fi-FF5E5B"></a><br><sub>RetroEye is free. If it brings back good memories, you can send GoodEye a bag of beans.</sub></p>
+
 **[⬇ Download RetroEye 1.0 preview](https://github.com/RetroEye/RetroEye/releases/tag/v1.0-preview)** · **[💬 Forum: ideas, bugs, your desktops](https://github.com/orgs/RetroEye/discussions)** · **[📺 Watch it being built](https://www.youtube.com/@GoodEye-Studios)**
 
 <p align="center"><img src="images/1.0-preview/retroeye-eras-hero.png" alt="RetroEye's Windows 95, 98, Me, 2000, XP, XP Olive Green, Vista and 7 desktops with their Start menus open"></p>
