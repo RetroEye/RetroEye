@@ -87,5 +87,4 @@ Bugs found on camera get fixed on camera, and good ideas end up in episodes.
 
 - RetroEye is made by **GoodEye Studios**. The GoodEye logo art is by [@Casify24](https://www.youtube.com/@Casify24).
 - RetroEye is built on [RetroBar](https://github.com/dremin/RetroBar) by Sam Johnson and contributors, and on [ManagedShell](https://github.com/cairoshell/ManagedShell). Both are under the Apache License 2.0, and their licence and notices come with every download.
-- **RetroEye's source code is private**, and the program files in each release are obfuscated. This repository holds the releases, the screenshots and the forum.
 - RetroEye is not affiliated with or endorsed by Microsoft. "Windows" is a trademark of Microsoft Corporation. RetroEye's themes recreate past looks with their own artwork.
