@@ -8,15 +8,15 @@
 
 <p align="center"><a href="https://ko-fi.com/goodeyebrad"><img src="images/goodeye-badge.png" width="72" alt="GoodEye"></a><br><a href="https://ko-fi.com/goodeyebrad"><img alt="Buy me a bag of beans" src="https://img.shields.io/badge/%E2%98%95%20buy%20me%20a%20bag%20of%20beans-Ko--fi-FF5E5B"></a><br><sub>RetroEye is free. If it brings back good memories, you can send GoodEye a bag of beans.</sub></p>
 
-**[⬇ Download RetroEye 1.0 preview](https://github.com/RetroEye/RetroEye/releases/tag/v1.0-preview)** · **[💬 Forum: ideas, bugs, your desktops](https://github.com/orgs/RetroEye/discussions)** · **[📺 Watch it being built](https://www.youtube.com/@GoodEye-Studios)**
+**[⬇ Download RetroEye 1.1 preview](https://github.com/RetroEye/RetroEye/releases/tag/v1.1-preview)** · **[💬 Forum: ideas, bugs, your desktops](https://github.com/orgs/RetroEye/discussions)** · **[📺 Watch it being built](https://www.youtube.com/@GoodEye-Studios)**
 
 <p align="center"><img src="images/1.0-preview/retroeye-eras-hero.png" alt="RetroEye's Windows 95, 98, Me, 2000, XP, XP Olive Green, Vista and 7 desktops with their Start menus open"></p>
 
 ---
 
-## New: 1.0 preview (pre-release), with everything turned on
+## New: 1.1 preview (pre-release): Pulse, and Alt+Tab for every era
 
-Until now each release only had what its episode had shown. **1.0 preview has all of it**: every era, every program and every game RetroEye has. It's a pre-release, so there will be rough edges, and 0.12 stays the latest stable version: tell us about them in the [forum](https://github.com/orgs/RetroEye/discussions). See [what's new in 1.0 preview](https://github.com/RetroEye/RetroEye/releases/tag/v1.0-preview).
+**1.1 preview** adds **Pulse**, RetroEye's own look for the Windows that came after 7 in our imagination, plus each era's own **Alt+Tab**, **Ctrl+Shift+Esc** and **snap outlines**, **GoodEye Snip** on Win+Shift+S, a picture viewer for every era, Start menu **Organize programs** (by type or A to Z), single-click opening and File Types, an **update notice**, and less memory use. It's for **Windows 10 and 11** only. It's a pre-release, so 0.12 stays the latest stable version: tell us about rough edges in the [forum](https://github.com/orgs/RetroEye/discussions). See [what's new in 1.1 preview](https://github.com/RetroEye/RetroEye/releases/tag/v1.1-preview).
 
 ## Every era
 
@@ -58,12 +58,13 @@ More screenshots, for every era: [images/1.0-preview](images/1.0-preview).
 | [0.10](https://github.com/RetroEye/RetroEye/releases/tag/v0.10) | **E02:** Naming RetroEye *(coming soon)* | GoodEye Messenger, GoodEye Player, the XP folder windows, Notepad, Paint, Calculator and the Command Prompt |
 | [0.12](https://github.com/RetroEye/RetroEye/releases/tag/v0.12) | **E04:** [RetroEye vs Real XP](https://www.youtube.com/watch?v=WPOqBQSFxDI) | Control Panel, Task Manager and Pinball |
 | [1.0 preview](https://github.com/RetroEye/RetroEye/releases/tag/v1.0-preview) | Episode: *coming soon* | Everything: every era, program and game RetroEye has |
+| [1.1 preview](https://github.com/RetroEye/RetroEye/releases/tag/v1.1-preview) | Episode: *coming soon* | Pulse, Alt+Tab for every era, Snip, Organize programs, update notice; Windows 10 and 11 only |
 
 Every version stays available on the [releases page](https://github.com/RetroEye/RetroEye/releases).
 
 ## Install
 
-1. Download **RetroEye-1.0-preview-Setup.exe** from the [1.0 preview release](https://github.com/RetroEye/RetroEye/releases/tag/v1.0-preview).
+1. Download **RetroEye-1.1-preview-Setup.exe** from the [1.1 preview release](https://github.com/RetroEye/RetroEye/releases/tag/v1.1-preview).
 2. Run it. If it's needed, Setup downloads Microsoft's .NET Desktop Runtime for you.
 3. **"Windows protected your PC"?** RetroEye isn't code-signed yet, so Windows doesn't recognize it. Click **More info**, then **Run anyway**.
 4. **Blocked with no Run anyway button?** That's Smart App Control, which is on for some brand-new Windows 11 PCs. It blocks programs that aren't code-signed, and RetroEye isn't signed yet. **We plan to sign it soon (hopefully!)**, and then it'll install there too.
@@ -72,8 +73,8 @@ RetroEye installs just for you, with no admin rights needed. You can remove it f
 
 ### System requirements
 
-- **Windows 10 or 11**, 64-bit, 32-bit or ARM; or **Windows 7 SP1 or 8.1** (included, not yet tested on real 7 or 8.1 machines).
-- The .NET Desktop Runtime (Setup gets it for you).
+- **Windows 10 or 11 (64-bit, 32-bit or ARM) only.** From 1.1 preview on there are no Windows 7 or 8.1 (.NET 6) builds.
+- The .NET 10 Desktop Runtime (Setup gets it for you).
 - Microsoft Edge WebView2 for the browsers and Active Desktop (it comes with Windows 10 and 11).
 
 ## Ideas, bugs and your desktops
